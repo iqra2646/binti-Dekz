@@ -1,0 +1,106 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: wheat;
+    margin: 0;
+    padding: 0;
+
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    text-align: left;
+    background-color: aqua;
+    
+    margin: 20px 0;
+    padding: 0;
+}
+
+
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color:gold;
+
+
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+nav{
+    width: 100%;
+    background-color: rgb(46, 165, 42);
+    overflow: hidden;
+    border-bottom: 6px solid black;
+}
+nav ul{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+}
+nav ul li a{
+    display: block;
+    float: left;
+    text-decoration: none;
+    border-right: 1px solid white;
+    padding: 5px 10px;
+}
+nav ul li a:hover{
+    background-color: red;
+}
+container{
+    text-align: center;
+
+}
+container-info{
+    margin-right: 10px;
+}
+container-info a {
+    color: aquamarine;
+    text-decoration: none;
+
+}
+container {
+    text-align: center;
+}
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color:blue;
+}
+service {
+    margin-bottom: 20px;
+}
+service i{
+    margin-right: 10px;
+    font-size: 1.5em;
+
+}
+services h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+service p{
+    font-size: 1.5em;
+    line-height: 1.5;
+}
+h2{
+    color: blueviolet;
+
+}
+
+
+
+
+
